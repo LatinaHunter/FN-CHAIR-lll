@@ -1,0 +1,171 @@
+{
+	"aimKey" : 2,
+	"aimSpeed" : 1,
+	"aimbotDistance" : 250,
+	"aimtbot" : true,
+	"ammobox" : false,
+	"ar" : 
+	{
+		"aimbot" : true,
+		"aimbotDistance" : 400,
+		"fov" : 300,
+		"lowHealthCustomize" : false,
+		"lowHealthFov" : 400,
+		"lowHealthSmoothing" : 2,
+		"lowHealthThreshhold" : 60,
+		"smoothing" : 3
+	},
+	"box" : false,
+	"chest" : false,
+	"controllerSupport" : false,
+	"cornered" : true,
+	"dots" : false,
+	"drawFov" : true,
+	"esp" : true,
+	"fontSize" : 15,
+	"fovSize" : 300,
+	"haimSpeed" : 0.10000000149011612,
+	"haimtbot" : false,
+	"hfovSize" : 300,
+	"loot" : false,
+	"nameBox" : true,
+	"nvbox" : 
+	[
+		1,
+		0,
+		0,
+		1
+	],
+	"nvdot" : 
+	[
+		1,
+		0,
+		0,
+		1
+	],
+	"nvskeleton" : 
+	[
+		1.0010000467300415,
+		0.85016441345214844,
+		0,
+		1
+	],
+	"obox" : true,
+	"open" : true,
+	"otbox" : 2.7000000476837158,
+	"other" : 
+	{
+		"aimbot" : true,
+		"aimbotDistance" : 400,
+		"fov" : 300,
+		"lowHealthCustomize" : false,
+		"lowHealthFov" : 400,
+		"lowHealthSmoothing" : 2,
+		"lowHealthThreshhold" : 60,
+		"smoothing" : 3
+	},
+	"outlineSkeleton" : true,
+	"pistol" : 
+	{
+		"aimbot" : true,
+		"aimbotDistance" : 400,
+		"fov" : 300,
+		"lowHealthCustomize" : false,
+		"lowHealthFov" : 400,
+		"lowHealthSmoothing" : 2,
+		"lowHealthThreshhold" : 60,
+		"smoothing" : 3
+	},
+	"playerAccelerationPrediction" : false,
+	"playerFontSize" : 14,
+	"playerName" : false,
+	"playerVelocityPrediction" : true,
+	"projectilePrediction" : true,
+	"radar" : true,
+	"radar_pos_x" : 20,
+	"radar_pos_y" : 50,
+	"radar_range" : 60,
+	"radar_size" : 200,
+	"rank" : false,
+	"roundBox" : true,
+	"rounding" : 10,
+	"shotgun" : 
+	{
+		"aimbot" : true,
+		"aimbotDistance" : 400,
+		"fov" : 300,
+		"lowHealthCustomize" : false,
+		"lowHealthFov" : 400,
+		"lowHealthSmoothing" : 2,
+		"lowHealthThreshhold" : 60,
+		"smoothing" : 3
+	},
+	"skeleton" : true,
+	"skeletonOutlineThickness" : 2.7000000476837158,
+	"skeletonThickness" : 1.5,
+	"smg" : 
+	{
+		"aimbot" : true,
+		"aimbotDistance" : 400,
+		"fov" : 300,
+		"lowHealthCustomize" : false,
+		"lowHealthFov" : 400,
+		"lowHealthSmoothing" : 2,
+		"lowHealthThreshhold" : 60,
+		"smoothing" : 3
+	},
+	"snaplines" : true,
+	"snaplinesOutline" : true,
+	"snaplinesThickness" : 1.5,
+	"sniper" : 
+	{
+		"aimbot" : true,
+		"aimbotDistance" : 400,
+		"fov" : 300,
+		"lowHealthCustomize" : false,
+		"lowHealthFov" : 400,
+		"lowHealthSmoothing" : 2,
+		"lowHealthThreshhold" : 60,
+		"smoothing" : 3
+	},
+	"tbox" : 1.5,
+	"vbox" : 
+	[
+		0,
+		1,
+		0,
+		1
+	],
+	"vdot" : 
+	[
+		0,
+		1,
+		0,
+		1
+	],
+	"vehicle" : false,
+	"vskeleton" : 
+	[
+		0,
+		0.27424648404121399,
+		1.0010000467300415,
+		1
+	],
+	"vsnapline" : 
+	[
+		1,
+		1,
+		0,
+		1
+	],
+	"vtext" : 
+	[
+		1,
+		1.8214285373687744,
+		1,
+		1
+	],
+	"weapon" : false,
+	"weaponConfigs" : false,
+	"wordRange" : 250
+}

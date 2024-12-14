@@ -1,0 +1,10 @@
+processId: 13560
+baseAddress: 140696339611648
+peb: 18446744072421507072
+address: 140696643138968
+VAStart: 140696339615744
+uworld: 2160764439824
+level: 2161159742352
+current_address: 140696340508672
+Offsets Initialized
+Cache Initialized
